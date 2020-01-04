@@ -1,2 +1,2 @@
-# yelp-dataset-challenge-round13
+# Yelp Dataset Challenge Round 13
 Predicting star-rating class for US restaurants
